@@ -1,0 +1,21 @@
+//
+Notes :
+
+CustomerType:  a pour  proprietés un CustomerTypeId, un Type Name , un nullable DisplayOrder.
+CustomerTypeRepository: classe créee simplement une liste de collection de CustomerType. 
+						Relation pas trés important, serve d'enregistrement. CustomerTypeRepostory contient une liste de 
+						de customerType.
+Invoice: Un INvoiceId, Un CustomerId(rataché un a Customer, CustomerId Clé étrangere),
+         Une InvoiceDate, uen DueDate, Un Etat de Paiment,						
+						
+Customer : CustomerID, FirstName, CustomerTypeID, EmailAddress, et une collection (une liste de Invoice)
+           relation  d'un à plusieur entre Customer et Invoice. un Client peut avoir plusieurs Invoice List. 
+		   
+		   
+InvoiceRepository: initialise une collection(liste de Repository) puis collection de liste filré 
+à l'aide oui LINQ!!!!
+
+
+		   
+		   
+		   

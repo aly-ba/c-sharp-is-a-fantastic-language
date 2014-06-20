@@ -1,0 +1,5 @@
+C:\Users\eyebe\Documents\GitHub\CSHARP-Asp.net-MVC-et-XAML-\Csharp en mode Ninja\before\Demos\SomeInternalThings\bin\Debug\SomeInternalThings.dll
+C:\Users\eyebe\Documents\GitHub\CSHARP-Asp.net-MVC-et-XAML-\Csharp en mode Ninja\before\Demos\SomeInternalThings\bin\Debug\SomeInternalThings.pdb
+C:\Users\eyebe\Documents\GitHub\CSHARP-Asp.net-MVC-et-XAML-\Csharp en mode Ninja\before\Demos\SomeInternalThings\obj\Debug\SomeInternalThings.csprojResolveAssemblyReference.cache
+C:\Users\eyebe\Documents\GitHub\CSHARP-Asp.net-MVC-et-XAML-\Csharp en mode Ninja\before\Demos\SomeInternalThings\obj\Debug\SomeInternalThings.dll
+C:\Users\eyebe\Documents\GitHub\CSHARP-Asp.net-MVC-et-XAML-\Csharp en mode Ninja\before\Demos\SomeInternalThings\obj\Debug\SomeInternalThings.pdb

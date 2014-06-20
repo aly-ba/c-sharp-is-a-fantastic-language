@@ -1,0 +1,3 @@
+mots -clés: test; decorateur patternà suivre.
+Data-Repository : CRUD, MAP, AVANCED CRUD,  LINQ , DATA PERSISTANCE.
+System.Diagnostics Namespace:The System.Diagnostics namespace provides class that represents the diagnostic aspect or SignalR.

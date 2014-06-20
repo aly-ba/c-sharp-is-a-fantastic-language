@@ -1,0 +1,10 @@
+//R&D
+types : nullable;
+Les types Nullable sont des instances du struct System.Nullable<T>. 
+Un type Nullable peut représenter la plage correcte de valeurs pour son type valeur sous-jacent, 
+plus une valeur null supplémentaire. Par exemple, un Nullable<Int32>, prononcé « Nullable d'Int32 », 
+peut avoir une valeur comprise entre -2147483648 et 2147483647, ou 
+la valeur null. Les valeurs truefalse ou Null peuvent être assignées à un type Nullable<bool>. 
+La possibilité d'assigner null à des types numériques et booléens est particulièrement utile lorsque vous utilisez des bases de données
+ et d'autres types de données contenant des éléments auxquels vous ne pouvez pas assigner de valeur. 
+ Par exemple, un champ booléen dans une base de données peut stocker les valeurs true ou false, ou peut être indéfini.

@@ -1,0 +1,6 @@
+c:\users\liberty\documents\visual studio 2012\Projects\CSSFSDemo3\CSSFSDemo3\bin\Debug\CSSFSDemo3.exe.config
+c:\users\liberty\documents\visual studio 2012\Projects\CSSFSDemo3\CSSFSDemo3\bin\Debug\CSSFSDemo3.exe
+c:\users\liberty\documents\visual studio 2012\Projects\CSSFSDemo3\CSSFSDemo3\bin\Debug\CSSFSDemo3.pdb
+c:\users\liberty\documents\visual studio 2012\Projects\CSSFSDemo3\CSSFSDemo3\obj\Debug\CSSFSDemo3.csprojResolveAssemblyReference.cache
+c:\users\liberty\documents\visual studio 2012\Projects\CSSFSDemo3\CSSFSDemo3\obj\Debug\CSSFSDemo3.exe
+c:\users\liberty\documents\visual studio 2012\Projects\CSSFSDemo3\CSSFSDemo3\obj\Debug\CSSFSDemo3.pdb
